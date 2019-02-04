@@ -3,5 +3,5 @@
 * P1
 * P2
 
-** Negrita **
-* Cursiva *
+**Negrita**
+*Cursiva*
